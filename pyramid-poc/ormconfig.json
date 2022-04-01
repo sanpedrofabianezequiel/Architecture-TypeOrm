@@ -1,0 +1,15 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "postgres",
+  "password": "apex7000",
+  "database": "apex",
+  "synchronize": false,
+  "logging": false,
+  "entities": [
+    "../build/entities/**/*.js"
+  ],
+  "migrations": [],
+  "subscribers": []
+}

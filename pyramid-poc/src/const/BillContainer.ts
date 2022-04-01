@@ -1,0 +1,4 @@
+export enum BILL_CONTAINER {
+  APEX_CONTAINER = 1,
+  CASH_BOX = 2,
+}
